@@ -4,3 +4,7 @@
 
 ### Configure
 Place `.tmux.conf` in home directory (`~`)
+
+
+### Key shortcuts
+`ctrl + b, r` reload config
